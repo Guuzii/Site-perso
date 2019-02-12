@@ -1,0 +1,8 @@
+
+.icon-gauge:before { content: '\e800'; } /* '' */
+.icon-mobile:before { content: '\e801'; } /* '' */
+.icon-lamp:before { content: '\e802'; } /* '' */
+.icon-eye:before { content: '\e803'; } /* '' */
+.icon-up-open:before { content: '\e804'; } /* '' */
+.icon-down-open:before { content: '\e805'; } /* '' */
+.icon-circle:before { content: '\f111'; } /* '' */
